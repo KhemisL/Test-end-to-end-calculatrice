@@ -1,8 +1,8 @@
-## git clone
+## Git clone
 
 git clone https://github.com/KhemisL/Test-end-to-end-calculatrice.git
 
-## install
+## Install
 
 npm install
 
