@@ -1,6 +1,6 @@
 ## git clone
 
-git clone https://github.com/WildCodeSchool/2023-03-wns-lamarr-groupe1.git
+git clone https://github.com/KhemisL/Test-end-to-end-calculatrice.git
 
 ## install
 
