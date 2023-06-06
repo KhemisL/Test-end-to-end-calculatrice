@@ -8,4 +8,4 @@ npm install
 
 ## Run test
 
-npx playright test --ui
+npx playwright test --ui
