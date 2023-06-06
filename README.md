@@ -8,4 +8,4 @@ npm install
 
 ## Run test ( folder tests/calcul.spec.ts )
 
-npx playright test codegen
+npx playright test --ui
